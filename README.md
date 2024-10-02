@@ -12,4 +12,4 @@ For simiplicity I assume that number of vehicles served is not large so that pag
 - Unit tests code enhancements like using Theory and Builder pattern
 
 ## Challenges
-- Reservations conflicts due to concurrency and for that reason I use optimistic concurrency approach with built in concurrency feature of EF.# vehicle-reservation
+- Reservations conflicts due to concurrency and for that reason I use optimistic concurrency approach with built in concurrency feature of EF.
